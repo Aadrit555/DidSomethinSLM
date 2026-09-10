@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.png" alt="Hermes, patron of language and decisive action" width="100%" />
+<img src="assets/hero.png" alt="DidSomethinSLM Mascot" width="340" style="border-radius: 16px;" />
 
 # DidSomethinSLM
 
@@ -33,7 +33,7 @@ Most language models today are massive generative transformers built to predict 
 
 Instead of generating text, this project treats language understanding as a decision problem. The model reads an input string at the character level, pools information through an attention layer, and selects an intent action using policy gradients (REINFORCE).
 
-In mythology, Hermes was the messenger god of language, interpretation, and swift execution. That spirit inspired the name: rather than chatting back, the model reads the input and does something.
+The koala mascot captures the spirit of the project: quiet, low-energy, and completely uninterested in small talk. Instead of generating paragraphs of conversational filler, the model wakes up, parses the input characters, picks the intent, and does something.
 
 ---
 
