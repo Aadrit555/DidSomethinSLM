@@ -33,7 +33,6 @@ Most language models today are massive generative transformers built to predict 
 
 Instead of generating text, this project treats language understanding as a decision problem. The model reads an input string at the character level, pools information through an attention layer, and selects an intent action using policy gradients (REINFORCE).
 
-The koala mascot captures the spirit of the project: quiet, low-energy, and completely uninterested in small talk. Instead of generating paragraphs of conversational filler, the model wakes up, parses the input characters, picks the intent, and does something.
 
 ---
 
